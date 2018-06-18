@@ -10,8 +10,8 @@ DATA CHARACTERISTICS
 The data consists of a series of trials collected from the experiment based on a variant of the Posner paradigm. Each trial contains information on neuronal activation before a tactile stimulus, collected through four pair of electrodes located in and around different regions of the somatosensory area. It also contains the response time that each subject has needed to respond to said stimuli.
 The trials can be distinguished among them according to certain parameters, which should be considered when exporting the data to the Python’s programming environment. Those parameters have been used as labels, allowing the distinction between different trials, which has been very useful not only when it comes to import the data, but also later while analysing them. The parameters are the following: subjects subdued to the experiments, electrode measuring each trial, task type (endogenous predictive, endogenous counter-predictive or exogenous), side of appearence of the target, attended or unattended location and laterality information.
 
-STUDY 1. Analysis of endogenous and exogenous alpha oscillations in touch. 
+STUDY 1 Analysis of endogenous and exogenous alpha oscillations in touch. 
 
-STUDY 2. Relationship between Event Related Potentials (ERPs) and subjects' behavioural outcome.
+STUDY 2 Relationship between Event Related Potentials (ERPs) and subjects' behavioural outcome.
 
-STUDY 3. Classification of the alpha oscilattions before different attentional scenarios.
+STUDY 3 Classification of the alpha oscilattions before different attentional scenarios.
